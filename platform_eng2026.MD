@@ -10,18 +10,6 @@
 
 ---
 
-## 📑 Índice
-- [Sumário Executivo](#sumário-executivo)
-- [1. A Tensão do Desenvolvimento Moderno & O "Imposto de Verificação"](#1-a-tensão-do-desenvolvimento-moderno--o-imposto-de-verificação)
-- [2. A Taxonomia dos Ecossistemas: Modos de Transporte](#2-a-taxonomia-dos-ecossistemas:a-metafora-dos-modos-de-transporte)
-- [3. O Equilíbrio Crítico: A Zona de Eficácia](#3-o-equilíbrio-crítico-a-zona-de-eficácia)
-- [4. A Revolução Agêntica: Do Copilot ao Google Antigravity](#4-a-revolução-agêntica-do-copilot-ao-google-antigravity)
-- [5. Evidências Empíricas e Métricas de Impacto](#5-evidências-empíricas-e-métricas-de-impacto)
-- [6. Framework de Autoavaliação e Diagnóstico](#6-framework-de-autoavaliação-e-diagnóstico)
-- [Conclusão](#conclusão)
-- [Referências e Leituras Complementares](#referências-e-leituras-complementares)
-
----
 
 # **Do Caos aos Trilhos na Era da IA: Equilibrando Flexibilidade, Confiabilidade e Sistemas Agênticos**
 
